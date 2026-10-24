@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishwar-chavhan/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ishwar-chavhan/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ishwar-chavhan/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ishwar-chavhan/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishwar-chavhan/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ishwar-chavhan/DSA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ishwar-chavhan/DSA/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/ishwar-chavhan/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ishwar-chavhan/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ishwar-chavhan/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ishwar-chavhan/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishwar-chavhan/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
