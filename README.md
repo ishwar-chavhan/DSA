@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishwar-chavhan/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ishwar-chavhan/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ishwar-chavhan/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishwar-chavhan/DSA/tree/master/0217-contains-duplicate) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ishwar-chavhan/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishwar-chavhan/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ishwar-chavhan/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ishwar-chavhan/DSA/tree/master/0179-largest-number) |
@@ -175,5 +177,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ishwar-chavhan/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/ishwar-chavhan/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
