@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishwar-chavhan/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ishwar-chavhan/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishwar-chavhan/DSA/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/ishwar-chavhan/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2965-find-missing-and-repeated-values](https://github.com/ishwar-chavhan/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ishwar-chavhan/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ishwar-chavhan/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ishwar-chavhan/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishwar-chavhan/DSA/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishwar-chavhan/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ishwar-chavhan/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ishwar-chavhan/DSA/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/ishwar-chavhan/DSA/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ishwar-chavhan/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
