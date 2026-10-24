@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/ishwar-chavhan/DSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/ishwar-chavhan/DSA/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/ishwar-chavhan/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ishwar-chavhan/DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ishwar-chavhan/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ishwar-chavhan/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ishwar-chavhan/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ishwar-chavhan/DSA/tree/master/0217-contains-duplicate) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ishwar-chavhan/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ishwar-chavhan/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ishwar-chavhan/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Stack
