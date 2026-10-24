@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ishwar-chavhan/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ishwar-chavhan/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ishwar-chavhan/DSA/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/ishwar-chavhan/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ishwar-chavhan/DSA/tree/master/0118-pascals-triangle) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ishwar-chavhan/DSA/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ishwar-chavhan/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ishwar-chavhan/DSA/tree/master/0278-first-bad-version) |
