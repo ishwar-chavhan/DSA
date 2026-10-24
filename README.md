@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ishwar-chavhan/DSA/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/ishwar-chavhan/DSA/tree/master/0485-max-consecutive-ones) |
 | [1207-unique-number-of-occurrences](https://github.com/ishwar-chavhan/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
