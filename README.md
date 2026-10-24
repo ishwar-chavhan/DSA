@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ishwar-chavhan/DSA/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/ishwar-chavhan/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ishwar-chavhan/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishwar-chavhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ishwar-chavhan/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ishwar-chavhan/DSA/tree/master/0179-largest-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ishwar-chavhan/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishwar-chavhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/ishwar-chavhan/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ishwar-chavhan/DSA/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
