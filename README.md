@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishwar-chavhan/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ishwar-chavhan/DSA/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/ishwar-chavhan/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ishwar-chavhan/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ishwar-chavhan/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ishwar-chavhan/DSA/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/ishwar-chavhan/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishwar-chavhan/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ishwar-chavhan/DSA/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/ishwar-chavhan/DSA/tree/master/0539-minimum-time-difference) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ishwar-chavhan/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ishwar-chavhan/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/ishwar-chavhan/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishwar-chavhan/DSA/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/ishwar-chavhan/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0680-valid-palindrome-ii) |
