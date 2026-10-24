@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ishwar-chavhan/DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ishwar-chavhan/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/ishwar-chavhan/DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ishwar-chavhan/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/ishwar-chavhan/DSA/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/ishwar-chavhan/DSA/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/ishwar-chavhan/DSA/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ishwar-chavhan/DSA/tree/master/0278-first-bad-version) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ishwar-chavhan/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ishwar-chavhan/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
