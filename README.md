@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ishwar-chavhan/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/ishwar-chavhan/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/ishwar-chavhan/DSA/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/ishwar-chavhan/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1207-unique-number-of-occurrences](https://github.com/ishwar-chavhan/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1539-kth-missing-positive-number](https://github.com/ishwar-chavhan/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/ishwar-chavhan/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishwar-chavhan/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ishwar-chavhan/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
