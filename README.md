@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ishwar-chavhan/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/ishwar-chavhan/DSA/tree/master/0485-max-consecutive-ones) |
 | [1207-unique-number-of-occurrences](https://github.com/ishwar-chavhan/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1539-kth-missing-positive-number](https://github.com/ishwar-chavhan/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/ishwar-chavhan/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/ishwar-chavhan/DSA/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ishwar-chavhan/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/ishwar-chavhan/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ishwar-chavhan/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ishwar-chavhan/DSA/tree/master/0410-split-array-largest-sum) |
+| [1539-kth-missing-positive-number](https://github.com/ishwar-chavhan/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
