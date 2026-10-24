@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ishwar-chavhan/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ishwar-chavhan/DSA/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ishwar-chavhan/DSA/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ishwar-chavhan/DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
