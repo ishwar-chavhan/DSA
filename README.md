@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ishwar-chavhan/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ishwar-chavhan/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ishwar-chavhan/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ishwar-chavhan/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ishwar-chavhan/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ishwar-chavhan/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ishwar-chavhan/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ishwar-chavhan/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ishwar-chavhan/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/ishwar-chavhan/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishwar-chavhan/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
