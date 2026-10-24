@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ishwar-chavhan/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ishwar-chavhan/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ishwar-chavhan/DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ishwar-chavhan/DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ishwar-chavhan/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ishwar-chavhan/DSA/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/ishwar-chavhan/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ishwar-chavhan/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ishwar-chavhan/DSA/tree/master/0179-largest-number) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ishwar-chavhan/DSA/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ishwar-chavhan/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
