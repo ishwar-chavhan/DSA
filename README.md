@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ishwar-chavhan/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/ishwar-chavhan/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishwar-chavhan/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/ishwar-chavhan/DSA/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ishwar-chavhan/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishwar-chavhan/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/ishwar-chavhan/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ishwar-chavhan/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ishwar-chavhan/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ishwar-chavhan/DSA/tree/master/1539-kth-missing-positive-number) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/ishwar-chavhan/DSA/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ishwar-chavhan/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ishwar-chavhan/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ishwar-chavhan/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/ishwar-chavhan/DSA/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Matrix
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ishwar-chavhan/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ishwar-chavhan/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ishwar-chavhan/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/ishwar-chavhan/DSA/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishwar-chavhan/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Timsort
 |  |
@@ -292,14 +296,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ishwar-chavhan/DSA/tree/master/0239-sliding-window-maximum) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/ishwar-chavhan/DSA/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ishwar-chavhan/DSA/tree/master/0239-sliding-window-maximum) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/ishwar-chavhan/DSA/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ishwar-chavhan/DSA/tree/master/0239-sliding-window-maximum) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/ishwar-chavhan/DSA/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
