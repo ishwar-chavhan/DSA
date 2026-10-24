@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ishwar-chavhan/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ishwar-chavhan/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/ishwar-chavhan/DSA/tree/master/0485-max-consecutive-ones) |
+| [0539-minimum-time-difference](https://github.com/ishwar-chavhan/DSA/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ishwar-chavhan/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ishwar-chavhan/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/ishwar-chavhan/DSA/tree/master/0875-koko-eating-bananas) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ishwar-chavhan/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishwar-chavhan/DSA/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/ishwar-chavhan/DSA/tree/master/0539-minimum-time-difference) |
 | [0881-boats-to-save-people](https://github.com/ishwar-chavhan/DSA/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ishwar-chavhan/DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ishwar-chavhan/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ishwar-chavhan/DSA/tree/master/0509-fibonacci-number) |
+| [0539-minimum-time-difference](https://github.com/ishwar-chavhan/DSA/tree/master/0539-minimum-time-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ishwar-chavhan/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ishwar-chavhan/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/ishwar-chavhan/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ishwar-chavhan/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ishwar-chavhan/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ishwar-chavhan/DSA/tree/master/0242-valid-anagram) |
+| [0539-minimum-time-difference](https://github.com/ishwar-chavhan/DSA/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ishwar-chavhan/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ishwar-chavhan/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
