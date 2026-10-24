@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ishwar-chavhan/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ishwar-chavhan/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ishwar-chavhan/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishwar-chavhan/DSA/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ishwar-chavhan/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishwar-chavhan/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ishwar-chavhan/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishwar-chavhan/DSA/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/ishwar-chavhan/DSA/tree/master/0904-fruit-into-baskets) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ishwar-chavhan/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ishwar-chavhan/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ishwar-chavhan/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishwar-chavhan/DSA/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/ishwar-chavhan/DSA/tree/master/0881-boats-to-save-people) |
@@ -84,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ishwar-chavhan/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ishwar-chavhan/DSA/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
